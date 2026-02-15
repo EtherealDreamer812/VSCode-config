@@ -17,7 +17,7 @@ Copy my configuration files to your VSCode user folder
 ```
 **Windows:**
 ```
-C:\Users\<Имя_пользователя>\AppData\Roaming\Code\User\settings.json
+C:\Users\<username>\AppData\Roaming\Code\User\settings.json
 ```
 **macOS:**
 ```
